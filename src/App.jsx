@@ -7,7 +7,7 @@ import jsonData from "../data.json"
 import MyCommentPosted from "./components/MyCommentPosted/MyCommentPosted";
 
 function App() {
-  const { currentUser, comments } = jsonData;
+  const { comments } = jsonData
 
 
   return (
