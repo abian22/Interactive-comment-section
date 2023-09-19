@@ -18,7 +18,7 @@ function App() {
             <div key={comment.id}>
               <Comment
                 key={comment.id}
-                avatar={comment.user.image.png}
+                avatar={comment.user.image.webp}
                 name={comment.user.username}
                 time={comment.createdAt}
                 text={comment.content}
@@ -29,7 +29,7 @@ function App() {
                   return (
                     <CommentOfComment
                       key={reply.id}
-                      avatar={reply.user.image.png}
+                      avatar={reply.user.image.webp}
                       name={reply.user.username}
                       time={reply.createdAt}
                       text={reply.content}
@@ -42,7 +42,7 @@ function App() {
                   return (
                     <MyCommentPosted
                       key={reply.id}
-                      avatar={reply.user.image.png}
+                      avatar={reply.user.image.webp}
                       name={reply.user.username}
                       time={reply.createdAt}
                       text={reply.content}
