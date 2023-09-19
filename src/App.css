@@ -1,16 +1,16 @@
 @font-face {
   font-family: "regular";
-  src: url("./public/Rubik-Regular.ttf");
+  src: url("./Rubik-Regular.ttf");
 }
 
 @font-face {
   font-family: "medium";
-  src: url("./public/Rubik-Medium.ttf");
+  src: url("./Rubik-Medium.ttf");
 }
 
 @font-face {
   font-family: "bold";
-  src: url("./public/Rubik-Bold.ttf");
+  src: url("./Rubik-Bold.ttf");
 }
 
 
