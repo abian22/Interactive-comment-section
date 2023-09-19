@@ -1,8 +1,8 @@
-import plus from "../../public/images/avatars/icon-plus.svg";
-import minus from "../../public/images/avatars/icon-minus.svg";
-import deleted from "../../public/images/avatars/icon-delete.svg";
-import edit from "../../public/images/avatars/icon-edit.svg";
-import julius from "../../public/image-juliusomo.webp"
+import plus from "../../../public/images/avatars/icon-plus.svg";
+import minus from "../../../public/images/avatars/icon-minus.svg";
+import deleted from "../../../public/images/avatars/icon-delete.svg";
+import edit from "../../../public/images/avatars/icon-edit.svg";
+import julius from "../../../public/images/avatars/image-juliusomo.png"
 import {
   Card,
   CardContent,
