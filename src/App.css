@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "regular";
+  src: url("./public/Rubik-Regular.ttf");
+}
+
+@font-face {
+  font-family: "medium";
+  src: url("./public/Rubik-Medium.ttf");
+}
+
+@font-face {
+  font-family: "bold";
+  src: url("./public/Rubik-Bold.ttf");
+}
+
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  font-family: "regular";
+}
+
+.app-container {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  height: 100vh; 
+}
+
+
+

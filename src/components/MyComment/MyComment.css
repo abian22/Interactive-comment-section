@@ -1,0 +1,13 @@
+@media (min-width: 1200px) {
+    .comment-card {
+        position: relative;
+      }
+      
+      .comment-card .container {
+        position: absolute;
+        top: 25px; 
+        right: 40px;
+      }
+      
+  }
+

@@ -1,0 +1,26 @@
+.centered-container {
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+  }
+
+  .buttonContainer Button:nth-child(1):hover {
+    background-color: hsl(0, 4%, 31%);
+  }
+  .buttonContainer Button:nth-child(2):hover {
+    background-color: hsl(358, 74%, 56%)
+  }
+  
+  
+  
+  
+  
+  
+  
+  
