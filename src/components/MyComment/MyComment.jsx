@@ -2,7 +2,7 @@ import plus from "../../public/assets/images/avatars/icon-plus.svg";
 import minus from "../../public/assets/images/avatars/icon-minus.svg";
 import deleted from "../../public/assets/images/avatars/icon-delete.svg";
 import edit from "../../public/assets/images/avatars/icon-edit.svg";
-import julius from "../../public/assets/images/avatars/image-juliusomo.webp"
+import julius from "../../public/image-juliusomo.webp"
 import {
   Card,
   CardContent,
