@@ -1,4 +1,4 @@
-import julius from "../../images/avatars/image-juliusomo.webp"
+import julius from "../../public/assets/images/avatars/image-juliusomo.webp"
 import { Card, Avatar, TextField, Button } from "@mui/material";
 import { useState } from "react";
 import MyComment from "../MyComment/MyComment";

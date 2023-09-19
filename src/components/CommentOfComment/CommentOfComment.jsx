@@ -1,7 +1,7 @@
-import plus from "../../images/icon-plus.svg";
-import minus from "../../images/icon-minus.svg"
-import reply from "../../images/icon-reply.svg"
-import julius from "../../images/avatars/image-juliusomo.webp"
+import plus from "../../public/assets/images/avatars/icon-plus.svg";
+import minus from "../../public/assets/images/avatars/icon-minus.svg";
+import reply from "../../public/assets/images/avatars/icon-reply.svg";
+import julius from "../../public/assets/images/avatars/image-juliusomo.webp"
 import { useState } from "react";
 import MyCommentBoxReply from "../MyCommentBoxReply/MyCommentBoxReply";
 import { Card, CardContent, Avatar, Typography } from "@mui/material";

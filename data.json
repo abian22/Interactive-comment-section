@@ -43,7 +43,7 @@
           "user": {
             "image": { 
               "png": "./src/public/assets/images/avatars/image-ramsesmiron.png",
-              "webp": "./src/public/assets/images/avatars/image-ramsesmiron.webp"
+              "webp": "./src/public//assets/public/images/avatars/image-ramsesmiron.webp"
             },
             "username": "ramsesmiron"
           }

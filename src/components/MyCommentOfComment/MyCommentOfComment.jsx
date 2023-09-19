@@ -1,7 +1,7 @@
-import plus from "../../images/icon-plus.svg";
-import minus from "../../images/icon-minus.svg";
-import deleted from "../../images/icon-delete.svg";
-import edit from "../../images/icon-edit.svg";
+import plus from "../../public/assets/images/avatars/icon-plus.svg";
+import minus from "../../public/assets/images/avatars/icon-minus.svg";
+import deleted from "../../public/assets/images/avatars/icon-delete.svg";
+import edit from"../../public/assets/images/avatars/icon-edit.svg";
 import {
   Card,
   CardContent,
