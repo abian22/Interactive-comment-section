@@ -1,6 +1,6 @@
-import plus from "../../public/assets/images/avatars/icon-plus.svg"
-import minus from "../../public/assets/images/avatars/icon-minus.svg"
-import reply from "../../public/assets/images/avatars/icon-reply.svg"
+import plus from "../../public/images/avatars/icon-plus.svg"
+import minus from "../../public/images/avatars/icon-minus.svg"
+import reply from "../../public/images/avatars/icon-reply.svg"
 import julius from "../../public/image-juliusomo.webp"
 import { Card, CardContent, Avatar, Typography } from "@mui/material";
 import { useState } from "react";
