@@ -54,7 +54,7 @@ function Comment({ avatar, name, time, text, position }) {
             marginLeft: { lg: "120px" },
           }}
         >
-          <Avatar src={avatar} />
+          <img src={avatar} />
           <Typography sx={{ marginLeft: "15px", fontFamily: "bold" }}>
             {name}
             <Typography
